@@ -17,3 +17,12 @@ section{
 .add img{
     width: 100%;
 }
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(red,blue);
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+
+}
