@@ -7,3 +7,13 @@ h1{
 .name{
     color: orange;
 }
+section{
+    display: flex;
+}
+.add{
+    width: 50%;
+    padding: 5%;
+}
+.add img{
+    width: 100%;
+}
